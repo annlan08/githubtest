@@ -12,6 +12,7 @@ namespace githubtest
         {
             Console.WriteLine("ver.01"); 
             Console.WriteLine("ver.01s1");
+            Console.WriteLine("ver.01s2");
             Console.WriteLine("ver.02");
             Console.ReadKey();
         }
